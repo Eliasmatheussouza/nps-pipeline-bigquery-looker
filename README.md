@@ -44,9 +44,9 @@ A meaningful part of this project was diagnosing and fixing real data-quality is
 
 | File | Description |
 |---|---|
-| `nps_pipeline_consolidated.sql` | Full pipeline: raw response cleaning, reason-code mapping, enrichment, NPS/band calculation, and the auxiliary purchase-frequency table |
-| `img1_dashboard_fisico.png` | Dashboard screenshot — NPS overview, monthly trend, promoter/detractor reasons |
-| `img2_anonymized.png` | Dashboard screenshot — store/region/demographic breakdown (store and district names anonymized) |
+| `nps_pipeline.sql` | Full pipeline: raw response cleaning, reason-code mapping, enrichment, NPS/band calculation, and the auxiliary purchase-frequency table |
+| `nps_dashboard_timespan.png` | Dashboard screenshot — NPS overview, monthly trend, promoter/detractor reasons |
+| `nps_dashboard_stores.png` | Dashboard screenshot — store/region/demographic breakdown (store and district names anonymized) |
 
 ---
 
