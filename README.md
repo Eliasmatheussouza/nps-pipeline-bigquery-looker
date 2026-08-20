@@ -28,11 +28,11 @@ A meaningful part of this project was diagnosing and fixing real data-quality is
 
 **Physical NPS overview** — period NPS, monthly trend, and top promoter/detractor reasons:
 
-![Physical NPS dashboard overview](nps_dashboard_stores.png)
+![Physical NPS dashboard overview](nps_dashboard_timespan.png)
 
 **Store, region and demographic breakdown** — NPS by store tier, region/district, gender/age, and purchase frequency:
 
-![Store and demographic NPS breakdown](img2_anonymized.png)
+![Store and demographic NPS breakdown](nps_dashboard_stores.png)
 
 ## Stack
 
